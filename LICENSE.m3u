@@ -207,7 +207,8 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title=" HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/60.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #----------------------------------------------------------------------------------------------------------------------------------------------------------
-
+#EXTINF:-1 group-title="Nước ngoài" , HBO
+http://gg.gg/thanhHBO
 #EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviet", HTVC Thuần Việt
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviethd", HTVC Thuần Việt HD
@@ -385,107 +386,3 @@ http://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8
 http://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8
 
 
-#EXTINF:-1 tvg-id="klive1hd" group-title="K+" tvg-logo="https://logo.anttv.xyz/101.png", K+LIVE 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" } ], "type":"temporary" }
-https://plus.anttv.xyz/mayboncopybanlistngulon/kpluslive/klive1/manifest.mpd
-
-#EXTINF:-1 tvg-id="klive2hd" group-title="K+" tvg-logo="https://logo.anttv.xyz/102.png", K+LIVE 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dDne6KZ62B+Zto18e/p50g", "kid":"QXSdPAX5TOyqmN8rMVrTCQ" } ], "type":"temporary" }
-https://plus.anttv.xyz/mayboncopybanlistngulon/kpluslive/klive2/manifest.mpd
-
-#EXTINF:-1 tvg-id="klive3hd" group-title="K+" tvg-logo="https://logo.anttv.xyz/103.png", K+LIVE 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jhwqqk/xL0jngyEDMeCguQ", "kid":"jcHanGFdRuGVteyGkVB4hw" } ], "type":"temporary" }
-https://plus.anttv.xyz/mayboncopybanlistngulon/kpluslive/klive3/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/14/08/1678757205330/41328ac4bfa8_640_360.jpg" group-title="🗓| Sự kiện", 2:30 | Bóng Đá
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"K/nSBz/SmUD7kCZOpQw0rw", "kid":"GR53MInESNOGdm8VSteQWg" },{ "kty":"oct", "k":"7dfQ+erBFkUKJpILlppbLg", "kid":"YWJ3MInESNOGdm8VSteQWg" },{ "kty":"oct", "k":"q7isub5Enj7St8uU9P7tLg", "kid":"WnO7edjESNOGdm8VSteQWg" } ], "type":"temporary" }
-
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-
-
-
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/14/08/1678757282682/01acc0942afe_640_360.jpg" group-title="Sự kiện", 2:30 | Bóng Đá
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/tv360/228/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2021/10/20/10/1634701183681/c3fc5639e21f_640_360.jpg" group-title=" Sự kiện", 11:30 | Tin Thể Thao
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"K/nSBz/SmUD7kCZOpQw0rw", "kid":"GR53MInESNOGdm8VSteQWg" },{ "kty":"oct", "k":"7dfQ+erBFkUKJpILlppbLg", "kid":"YWJ3MInESNOGdm8VSteQWg" },{ "kty":"oct", "k":"q7isub5Enj7St8uU9P7tLg", "kid":"WnO7edjESNOGdm8VSteQWg" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-
-
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/16/14/1678950876483/515d015c46ce_640_360.jpg" group-title=" Sự kiện", 22:00 | Bóng Đá
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"reoL79Dci13AxECy55iTMA", "kid":"cgI+T7i7SNWBq0fI56DjBg" },{ "kty":"oct", "k":"i1DhZodx1qmFxz+GaYYu5Q", "kid":"ukY+T7i7SNWBq0fI56DjBg" },{ "kty":"oct", "k":"5+zJ8qcxhSXLKm2H5roNeA", "kid":"s1eCmAe7SNWBq0fI56DjBg" } ], "type":"temporary" }
-
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
-#EXTINF:-1 group-title="Quốc tế | Singapore" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ==&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ=&
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
-
-#EXTINF:-1 group-title="Quốc tế | Singapore" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG/nkMNDuNoZKk/1cG3xTZG5w=&
-https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
-
-#EXTINF:-1 group-title="Quốc tế | Singapore" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ/UWeTXAOfpju0oZkr0UtvrZ8k=&
-https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
-
-#EXTINF:-1 group-title="Quốc tế | Singapore" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia (DRM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY25hU19kYXNoX3dlYl9kcm0iLCJmaWxlcyI6IjU3NTQxNDgiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ==&signature=AwRVi/H+lkS0uH3gDvZFjXDH3bM=&
-https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/05/09/1680660980953/63aafbc54084_640_360.png" group-title="??| S? ki?n", 2:00 | Bóng Ðá - WEST HAM - NEWCASTLE 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uuxka6BETIRnuZ7f2xEm4Q","kid":"0y2qTOn1UeyuvdgtW7T//A"},{"kty":"oct","k":"cDpHI4DdZUJj7P3maUHvRg","kid":"G3GqTOn1UeyuvdgtW7T//A"},{"kty":"oct","k":"R2lhHJnWwzqPWdPvfBG51A","kid":"KHXufen1UeyuvdgtW7T//A"},{"kty":"oct","k":"v/GoZ7DWK7X6Jim1C82irQ","kid":"FILulTj1UeyuvdgtW7T//A"}], "type":"temporary"}
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/index.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/05/09/1680660960490/30d64c6dc652_640_360.png" group-title="??| S? ki?n", 2:00 | Bóng Ðá - MAN UTD - BRENTFORD 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FHzl9PDu5Ox6aw+tTwq5aA","kid":"afHLEyIgqP/a/U+QUHDe4w"},{"kty":"oct","k":"1bymmG4iORa8ldNItdxueQ","kid":"sTXLEyIgqP/a/U+QUHDe4w"},{"kty":"oct","k":"7kFvzn2yT6P/vR09T063Jw","kid":"vjkPRCIgqP/a/U+QUHDe4w"},{"kty":"oct","k":"kqbDSGSMj5nBxZyOSS7uYw","kid":"qkYPXHEgqP/a/U+QUHDe4w"}], "type":"temporary"}
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title=" VTVcab" tvg-logo="https://logo.anttv.xyz/14.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/${start}/${offset}.m3u8", VTVcab 3 - ON Sports HD 50 FPS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aSctF9eKf6B1ujSQn4XYgQ", "kid":"rMNWQ/tYS3+773NfjpGdhQ" } ], "type":"temporary" }
-http://s7769.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title=" VTVcab" tvg-logo="https://logo.anttv.xyz/27.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/${start}/${offset}.m3u8", VTVcab 16 - ON Football HD 50 FPS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+EE5LpJGQecwebOIoJaQPg", "kid":"QSbBTqjoQbuRdFzZMjoSRA" } ], "type":"temporary" }
-http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv265&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title=" VTVcab" tvg-logo="https://logo.anttv.xyz/29.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/${start}/${offset}.m3u8", VTVcab 18 - ON Sports News 50 FPS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qROfSVXwLya5HP2kT0KQ3Q", "kid":"2iwm1FFtTbGmqC9XOiPFAA" } ], "type":"temporary" }
-http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv496&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title=" VTVcab" tvg-logo="https://logo.anttv.xyz/34.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/${start}/${offset}.m3u8", VTVcab 23 - ON Golf 50 FPS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"AQA8GU+AN0ZrUUpRd0nWpQ", "kid":"TrlQO+gDQfu0hTvXTMlRRA" } ], "type":"temporary" }
-http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv485&offset=1&nodelay=1
