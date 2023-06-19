@@ -254,6 +254,18 @@ http://103.56.160.133:8081/hbo
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=590
 https://106d4d2f4.vws.vegacdn.vn/live_dzones/axn.smil/manifest.mpd
 
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="đŸ¥|Movie",HBO HD1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/keyhbo.php?c=hbo_mykplus
+https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="đŸ¥|Movie", CINEMAX HD1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/keyhbo.php?c=cinemax_mykplus
+https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
+
 #EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviet", HTVC Thuần Việt
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviethd", HTVC Thuần Việt HD
