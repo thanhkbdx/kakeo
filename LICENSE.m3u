@@ -789,3 +789,9 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_lifehd/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O5cRWXpSoUdatsJzKvRDMA","kid":"lWnkKbZ8eIl1Lpuv/dnrmw"},{"kty":"oct","k":"IFh35VaZgSHgEgjZxQnk6A","kid":"3a3kKbZ8eIl1Lpuv/dnrmw"},{"kty":"oct","k":"n9yVqUwRp4Vh8IfNbM02tw","kid":"6rEoWrZ8eIl1Lpuv/dnrmw"},{"kty":"oct","k":"x9df+5DcmqQgqTtPBoFDow","kid":"1r4ocgV8eIl1Lpuv/dnrmw"}], "type":"temporary"}
 
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
+#EXTINF:-1 tvg-id="sctv3hd" group-title="Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png", SCTV3 HD
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="Hoạt hình" tvg-logo="https://logo.anttv.xyz/19.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/0327f7ef-4c0f-4e66-a240-819452590d40/${start}/${offset}.m3u8", VTVcab 8 - ON BiBi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.anttv.xyz/get/vtvcab/vtvcab8/playlist.m3u8
