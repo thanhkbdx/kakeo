@@ -263,18 +263,19 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #----------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="hbohd" group-title="Nước ngoài" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
-http://live.vthanhtivi.pw/hbo
+http://live.vthanhtivi.pw/hbo/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Nước ngoài" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
-http://live.vthanhtivi.pw/cinemax
+http://live.vthanhtivi.pw/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Nước ngoài" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
 http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="dmax" group-title="Nước ngoài" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
 http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
 
 #EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviet", HTVC Thuần Việt
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviethd", HTVC Thuần Việt HD
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTVC" tvg-id="htvcgiadinhhd", HTVC Gia đình HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTVC" tvg-id="htvcphunuhd", HTVC Phụ nữ HD
@@ -519,6 +520,33 @@ http://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="Sctv" logo="http://images.zaltv.club/logo/binh-duong-btv5.png", BTV5 - Thể thao
 http://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8
+#EXTINF:-1 group-title="POLSAT - TVP SPORT" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/tvpsport.png",TT Tổng hợp
+http://stream.cvmtv.site/TVPS?token=live
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro Super Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=123
+https://webudit.cdnhks.lol/lb/premium123/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro Super Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=124
+https://webudit.cdnhks.lol/lb/premium124/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711", Astro Super Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=125
+https://webudit.cdnhks.lol/lb/premium125/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Astro Super Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=126
+https://webudit.cdnhks.lol/lb/premium126/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png", Astro Super Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=43
+https://webudit.cdnhks.lol/lb/premium43/index.m3u8
+
+
 #EXTINF:-1 group-title="DRM Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVCAg_kqdlbh1XEHOkcXtvLueFZ2pmtHtqrg&usqp=CAU",V SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -633,7 +661,8 @@ https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_TINTU
 https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/BONGDA_HD/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+Myk+" tvg-logo="https://logo.anttv.xyz/99.png", K+SPORT2 HD
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="http://gg.gg/k2sport" group-title="K+", K+SPORT2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
 http://txt:87654321dbcA@myip3.duckdns.org:9981/stream/channel/253c57bede4f23d1f017ed0781184e9f?ticket=b20113c6f82e0f178e276f293fd831416073412d
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+ SPORT1 HD
@@ -650,6 +679,43 @@ http://103.77.175.153/play/DneU6UNke93O95EqYPvof9OzKLQ-OxUeEJM_UZ1VjZg/m3u8
 http://103.77.175.153/play/DneU6UNke93O95EqYPvof8FzlbqYxiqkxwx27wBq_Ao/m3u8
 #EXTINF:-1 tvg-id="Kkidshd" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+ Kids IPTV
 http://103.77.175.153/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
+
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://gg.gg/ksport1kkk",1.K+ SPORT 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w0kuZY+0LBvDK5gQLTt43A", "kid":"9itAeb9TQ5XLbDVxR376RQ" },{ "kty":"oct", "k":"w0kuZY+0LBvDK5gQLTt43A", "kid":"9itAeb9TQ5XLbDVxR376RQ" },{ "kty":"oct", "k":"L/rL5l5HbVKjaL9Ov7gYiw", "kid":"tdb8MHBTQ5XLbDVxR376RQ" },{ "kty":"oct", "k":"bLbOLuZpJkFjVn+ADHcNOA", "kid":"/Rr8MHBTQ5XLbDVxR376RQ" }], "type":"temporary" }
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="http://gg.gg/ksport2kkk" group-title="K+",1.K+ SPORT 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fcv15rSkJ5ytoPrij5MG/Q", "kid":"hRhUaZp+a+ag+FJEX9Rq7g" },{ "kty":"oct", "k":"4g+JWHg/tynVLS0oeijl5Q", "kid":"RMMQIEt+a+ag+FJEX9Rq7g" },{ "kty":"oct", "k":"OGB2bFPvLAqUc2gI2Or1Yw", "kid":"jAcQIEt+a+ag+FJEX9Rq7g" }], "type":"temporary" }
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://gg.gg/kcinekkk",1.K+ CINE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8suAg7WXFGR1eN3kMBp0CA", "kid":"ahbb9Uk1U9t+xU/cGEuApA" },{ "kty":"oct", "k":"hSlLl8WWLQ0to3dgcR19Ig", "kid":"KcGXrPo1U9t+xU/cGEuApA" },{ "kty":"oct", "k":"LEHirXldF/d3t/PSzZA3xw", "kid":"cQWXrPo1U9t+xU/cGEuApA" }], "type":"temporary" }
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
+#http://nhamngfpt.ddns.me/thongbaongungphat.m3u8
+
+#EXTINF:-1 tvg-id="klifehd" tvg-logo="http://gg.gg/klifekkk" group-title="K+",1.K+ LIFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GPWACV2Iw9nhLvuuWACd4w", "kid":"iE5vri/tGZJLE1HRSgaw6Q" },{ "kty":"oct", "k":"GPWACV2Iw9nhLvuuWACd4w", "kid":"iE5vri/tGZJLE1HRSgaw6Q" },{ "kty":"oct", "k":"WiFa+sDmkcPwmt8unrEUww", "kid":"R/krZeDtGZJLE1HRSgaw6Q" },{ "kty":"oct", "k":"dbdCVr9TQC4kgotq5sS7bw", "kid":"jz0rZeDtGZJLE1HRSgaw6Q" }], "type":"temporary" }
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+#http://nhamngfpt.ddns.me/thongbaongungphat.m3u8
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://gg.gg/kkidkkk", K+ Kids
+EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dgMhoEQNN+yqjjbFowApcA", "kid":"VWhlBxaSRsR2sptnbcEvqQ" },{ "kty":"oct", "k":"HnM3g8SP1BUF9CrD1QX3ZA", "kid":"FBMhvseSRsR2sptnbcEvqQ" },{ "kty":"oct", "k":"iww0YHxkorNJT5PPk7tXeA", "kid":"XFchvseSRsR2sptnbcEvqQ" }], "type":"temporary" }
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
+
+
 
 
 
